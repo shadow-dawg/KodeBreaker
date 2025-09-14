@@ -19,7 +19,7 @@ One Stop Personlized Career Guidance WebApp
 ### 1. Clone the repository
 
 ```sh
-git clone <[your-repo-url](https://github.com/shadow-dawg/KodeBreaker.git)>
+git clone https://github.com/shadow-dawg/KodeBreaker.git
 cd KodeBreaker
 ```
 
