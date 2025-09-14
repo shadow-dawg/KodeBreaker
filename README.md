@@ -1,6 +1,6 @@
 # KodeBreaker
 
-A simple Node.js authentication app using Express, MongoDB, JWT, and EJS.
+One Stop Personlized Career Guidance WebApp
 
 ## Features
 
